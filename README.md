@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdhwndd
 - 👀 I’m interested in programming , 3d modelling and animation.
-- 🌱 I’m currently learning blender to create a static model.
+- 🌱 I’m currently learning blender to create a static model and unity for my first indie game.
 - ⚡ Fun fact: Love to play tcg, turn based and strategy games.
 
 <!---
